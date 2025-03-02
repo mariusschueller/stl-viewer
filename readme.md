@@ -1,4 +1,4 @@
-# A Simple STL Viewer with Three.js
+# STL Viewer with Three.js
 
 Based on https://tonybox.net/posts/simple-stl-viewer/
 
